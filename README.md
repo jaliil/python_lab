@@ -1,2 +1,2 @@
 # python_lab
-there are same code of python 
+It is a python lab
